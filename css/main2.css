@@ -1,0 +1,10 @@
+body{
+    background-color: indianred;
+}
+.item{
+    border: 1px solid white;
+    background-color: indianred;
+    color: white;
+    text-align: center;
+    margin: 5px auto;
+}
